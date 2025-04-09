@@ -2,6 +2,10 @@
 
 C'est une application de simulation automobile en temps réel. Elle permet de visualiser et d'interagir avec une voiture simulée via un tableau de bord, tout en enregistrant les événements dans une base de données.
 
+## Aperçu de l'application
+
+![Tableau de Bord](./screenshot.png)
+
 ## Fonctionnalités
 
 * Affichage en temps réel de la vitesse, du carburant restant et de la distance parcourue.

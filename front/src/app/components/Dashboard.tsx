@@ -57,7 +57,7 @@ const Dashboard: React.FC = () => {
       </div>
 
       {/* Affichage de la consommation */}
-      <div className="bg-gray-800 p-4 rounded-lg shadow-lg flex justify-between items-center w-full max-w-lg">
+      <div className="bg-gray-800 p-4 mb-4 rounded-lg shadow-lg flex justify-between items-center w-full max-w-lg">
         <span className="font-bold">Consommation:</span>
         <span className="text-xl">{fuelConsumptionPer100Km.toFixed(2)} L/100km</span>
       </div>
