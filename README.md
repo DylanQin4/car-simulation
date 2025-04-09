@@ -1,6 +1,6 @@
 # Simulation Automobile
 
-Fiara est une application de simulation automobile en temps réel. Elle permet de visualiser et d'interagir avec une voiture simulée via un tableau de bord, tout en enregistrant les événements dans une base de données.
+C'est une application de simulation automobile en temps réel. Elle permet de visualiser et d'interagir avec une voiture simulée via un tableau de bord, tout en enregistrant les événements dans une base de données.
 
 ## Fonctionnalités
 
@@ -21,7 +21,7 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants :
 
 1.  **Clonez le dépôt :**
     ```bash
-    git clone [https://github.com/DylanQin4/fiara.git](https://github.com/DylanQin4/fiara.git)
+    git clone [https://github.com/DylanQin4/car-simulation.git](https://github.com/DylanQin4/car-simulation.git)
     cd fiara
     ```
 
